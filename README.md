@@ -6,7 +6,7 @@ EcoSnap is a deep learning-powered application that uses MobileNet to classify w
 ---
 ## 🚀 Features
 
-📷 Real-time Waste Classification
+#### 📷 Real-time Waste Classification
 
 Upload a waste image and get an instant prediction of its category using MobileNet.
 
@@ -27,7 +27,8 @@ Source: TrashNet Dataset
 
 Link: https://www.kaggle.com/datasets/feyzazkefe/trashnet/code 
 
-Classes:
+
+#### Classes:
 
 Plastic
 
@@ -41,7 +42,8 @@ Cardboard
 
 Trash
 
-Preprocessing:
+
+#### Preprocessing:
 
 Image resizing to match MobileNet input requirements
 
@@ -50,7 +52,7 @@ Normalization and augmentation to improve model robustness
 ---
 ## 🧠 Model Architecture
 
-Component	Description
+#### Component	Description
 
 Base Model	: MobileNet (pretrained on ImageNet)
 
@@ -74,11 +76,11 @@ Metric : Accuracy
 ---
 ## 🔧 Customization
 
-📐 Image Size Adjustment
+#### 📐 Image Size Adjustment
 
 Ensures compatibility and visibility of uploaded images
 
-📚 Expanded Recycling Info
+#### 📚 Expanded Recycling Info
 
 Provides detailed recycling tips for each category
 
@@ -107,7 +109,8 @@ Provides detailed recycling tips for each category
 
 🧠 Integration with YOLO 
 
-🙌 Acknowledgements
+---
+#### 🙌 Acknowledgements
 TrashNet Dataset
 MobileNet (Keras)
 
