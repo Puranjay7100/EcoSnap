@@ -83,18 +83,13 @@ Provides detailed recycling tips for each category
 ---
 ## 🧪 How to Use
 
-🔗 Open the Streamlit web app (see Live Demo below)
+🔗 Open the Streamlit web app 
 
 📤 Upload an image of waste
 
 📈 View the predicted category
 
 ♻️ Read recycling suggestions and dispose responsibly
-
----
-## 🌐 Live Demo
-
-👉 
 
 ---
 ## 🧠 Future Improvements
@@ -108,6 +103,7 @@ Provides detailed recycling tips for each category
 ---
 #### 🙌 Acknowledgements
 TrashNet Dataset
+
 MobileNet (Keras)
 
 
