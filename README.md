@@ -63,9 +63,9 @@ Metric : Accuracy
 ---
 ## 📊 Results
 
-✅ Training Accuracy: ~92%
+✅ Training Accuracy: ~96%
 
-🧪 Validation Accuracy: ~88%
+🧪 Validation Accuracy: ~85%
 
 📉 Loss: Optimized to minimize classification errors
 
