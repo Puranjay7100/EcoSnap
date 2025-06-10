@@ -30,17 +30,17 @@ Link: https://www.kaggle.com/datasets/feyzazkefe/trashnet/code
 
 #### Classes:
 
-Plastic
+. Plastic
 
-Metal
+. Metal
 
-Glass
+. Glass
 
-Paper
+. Paper
 
-Cardboard
+. Cardboard
 
-Trash
+. Trash
 
 
 #### Preprocessing:
