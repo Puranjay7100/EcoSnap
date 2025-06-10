@@ -28,21 +28,17 @@ Source: TrashNet Dataset
 Link: https://www.kaggle.com/datasets/feyzazkefe/trashnet/code 
 
 
+---
 #### Classes:
 
-. Plastic
+Plastic,
+Metal, 
+Glass, 
+Paper,
+Cardboard,
+Trash
 
-. Metal
-
-. Glass
-
-. Paper
-
-. Cardboard
-
-. Trash
-
-
+---
 #### Preprocessing:
 
 Image resizing to match MobileNet input requirements
